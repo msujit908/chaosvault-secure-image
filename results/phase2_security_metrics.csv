@@ -1,0 +1,10 @@
+Metric,Plaintext_Value,Ciphertext_Value,Ideal_Theoretical_Bound
+Shannon_Entropy,6.8649,7.9976,8.0000
+Horizontal_Correlation,+0.9994,+0.0044,0.0000
+Vertical_Correlation,+0.9999,+0.0150,0.0000
+Diagonal_Correlation,+0.9994,+0.0199,0.0000
+NPCR_Percentage,N/A,99.6740,99.6094
+UACI_Percentage,N/A,35.6557,33.4635
+Recovery_MSE,N/A,0.00e+00,0.0000
+Recovery_PSNR_dB,N/A,Inf,Inf
+Exact_Recovery_Match,N/A,1,1

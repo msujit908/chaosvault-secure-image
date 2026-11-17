@@ -1,0 +1,17 @@
+# MATLAB Autosaves & Temp files
+*.asv
+*.autosave
+*.m~
+
+# OS metadata
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+
+# IDEs
+.vscode/
+.idea/

@@ -1,0 +1,12 @@
+Metric,Regime_A_Nominal_b045,Regime_B_Chaotic_b012
+b,0.45,0.12
+div_F,-1.7000,-1.3700
+LE1,+0.0010,+0.0501
+LE2,-0.1388,-0.0855
+LE3,-0.2825,-0.5016
+LE4,-1.2800,-0.8701
+Sum_LE,-1.7000,-1.3700
+D_KY,1.01,2.35
+Topology,Periodic Limit Cycle,Chaotic Strange Attractor
+Spectrum,Discrete Line Spectrum,Continuous Broadband Spectrum
+Phase2_Cryptographic_Suitability,Unsuitable (Predictable),Recommended (High Entropy)
